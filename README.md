@@ -67,7 +67,15 @@ cd Website/
 npm start
 ```
 
-### Step 5: Access the Application
+### Step 5: Install Node Modules
+
+Before starting the web server, install all required Node.js dependencies:
+
+```bash
+npm install
+```
+
+### Step 6: Access the Application
 
 Open your browser and go to:
 
@@ -75,7 +83,7 @@ Open your browser and go to:
 http://localhost:3000
 ```
 
-### Step 6: Predict Resale Value
+### Step 7: Predict Resale Value
 
 Fill in the required details such as:
 
